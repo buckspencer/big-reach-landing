@@ -1,8 +1,10 @@
 module.exports = {
+  pathPrefix: "ttp://buckspencer.github.io/big-reach-landing/",
   siteMetadata: {
-    title: `Gatsby Starter Tailwind`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@taylorbryant`
+    title: `BigReach`,
+    description: `software consultancy`,
+    logo: `/src/images/logo.png`,
+    author: `@bigreach`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -13,7 +15,7 @@ module.exports = {
         short_name: `starter`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#4dc0b5`,
+        theme_color: `#e6b31e`,
         display: `minimal-ui`,
         icon: `src/images/tailwind-icon.png`
       }
