@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "buckspencer.github.io/big-reach-landing/",
+  pathPrefix: "/big-reach-landing",
   siteMetadata: {
     title: `BigReach`,
     description: `software consultancy`,
