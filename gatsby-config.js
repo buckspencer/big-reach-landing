@@ -13,7 +13,7 @@ module.exports = {
       options: {
         name: `gatsby-starter-tailwind`,
         short_name: `starter`,
-        start_url: `/`,
+        start_url: ``,
         background_color: `#ffffff`,
         theme_color: `#e6b31e`,
         display: `minimal-ui`,

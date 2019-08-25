@@ -1,5 +1,5 @@
 import { Link } from "gatsby";
-import logo from "../images/logo.png";
+import logo from "../images/logo.svg";
 import PropTypes from "prop-types";
 import React, { useState } from "react";
 

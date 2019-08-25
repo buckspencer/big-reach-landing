@@ -25,8 +25,7 @@ function IndexPage() {
         </h2>
 
         <p className="leading-loose">
-          This is the part where you reach out to our pleasant staff to setup a
-          meeting with our ever eager to please CTO
+
         </p>
       </section>
     </Layout>
